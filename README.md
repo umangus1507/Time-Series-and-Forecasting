@@ -1,7 +1,7 @@
 # Time-Series-and-Forecasting
 ## Time Series Forecasting for Shampoo Sales
 
-### Project Overview
+# Project Overview
 
 This GitHub repository contains the code and documentation for a comprehensive time series forecasting project focused on predicting shampoo sales for a major company. The project utilizes historical sales data spanning three years, from January 2021 to December 2023, to develop accurate and reliable forecasts for the upcoming two years, up to December 2024.
 
